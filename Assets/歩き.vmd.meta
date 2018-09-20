@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 22e5d597f3d1e62488ef6379ccd8276c
+ScriptedImporter:
+  fileIDToRecycleName:
+    7400000: VMDMotion
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ae78b35155651e74bab29b5c48f5986c, type: 3}
